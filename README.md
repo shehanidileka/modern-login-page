@@ -13,13 +13,9 @@ A modern, responsive, and visually appealing login page built using **HTML5**, *
 
 ## 🛠️ Technologies Used
 
-* **HTML5** (Structure)
-* **CSS3** (Styling, Flexbox, Keyframe Animations, Glassmorphism)
-* **JavaScript** (Form validation logic)
-
-## 📱 Preview / Screenshots
-
-*(You can add a screenshot of your login page here once it's up and running)*
+* **HTML5** 
+* **CSS3** 
+* **JavaScript** 
 
 ## 🚀 Getting Started
 
